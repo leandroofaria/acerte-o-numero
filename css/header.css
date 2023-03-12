@@ -1,0 +1,13 @@
+header {
+    width: 100%;
+    text-align: center;
+    padding: 2rem;
+    box-shadow: 0 2px 4px 2px rgb(0, 0, 0, 0.5);
+    background-color: #fafafa;
+}
+
+header h1 a {
+    color: #f3a034;
+    font-size: 2.8rem;
+    font-weight: 300;
+}
