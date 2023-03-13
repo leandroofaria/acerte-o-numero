@@ -1,0 +1,17 @@
+.result-box-default {
+    background-color: white;
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+.result-correct-answear {
+    color: white;
+    background-color: green;
+}
+
+.status-correct {
+    color: white;
+}
+
+.incorrect-answear {
+    color:red;
+}
