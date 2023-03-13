@@ -1,15 +1,15 @@
 .result-box-default {
     background-color: white;
     box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.1);
+    color: black;
 }
 
 .result-correct-answear {
-    color: white;
-    background-color: green;
+    color: green;
 }
 
 .status-correct {
-    color: white;
+    color: green;
 }
 
 .incorrect-answear {
